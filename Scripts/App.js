@@ -30,7 +30,7 @@ var wordBank = ["HORSE", "SMASH", "STASH", "CANDY", "PILLS", "WASTE", "STACK", "
                 "TULIP", "AMPLE", "FIRST", "BEARD", "BRAIN", "GECKO", "QUIET", "ARSON", "ARBOR", "VIRAL", 
                 "ANGLE", "PAINT", "SOUND", "CLOUD", "UNDER", "AMBER", "SLURP", "SAUTE", "ANGEL", "SNARL", 
                 "CABIN", "PANDA", "GUILD", "EMOJI", "TOTAL", "SHIRT", "PIZZA", "WRATH", "PLUSH", "TRASH", 
-                "ERASE", "POINT", "DAILY", "ORGAN", "STORK", "CHORE", "MOUTH"];
+                "ERASE", "POINT", "DAILY", "ORGAN", "STORK", "CHORE", "MOUTH", "PAUSE"];
 
 window.addEventListener("load", chooseWord);
 function chooseWord(){
